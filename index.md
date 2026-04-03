@@ -63,7 +63,7 @@ title: ""
 ## 📂 개인 프로젝트
 
 ### 기상청 API허브를 활용한 블록체인 서비스 구축
-기상/지진 데이터를 획득하여 체인링크노드를 통한 온체인 서비스 제공
+기상/지진 데이터를 획득하여 체인링크노드를 통한 온체인 서비스 제공 (Java, Python, Github, Notion, Redmine)
 [GitHub 바로가기](https://github.com/kji777kji777/my-first-project)
 
 ## 📫 연락처
