@@ -13,7 +13,7 @@ title: ""
 **2020.07 - 현재**
 
 * **주요 업무**: 기상청 지진 서버프로그램 개발, 자바클라이언트 개발, PC클라이언트 개발, API서버개발
-* **기술 스택**: C/C++(Poco, JAVA, Go/jin, Python/Django, Docker, Oracle, PostgreSQL
+* **기술 스택**: C/C++/Poco, JAVA, Go/jin, Python/Django, Docker, Oracle, PostgreSQL
 
 ### (주)아이디테크 | 이사 / 연구소장
 **2006.11 - 2018.06**
