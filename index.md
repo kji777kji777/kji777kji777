@@ -38,6 +38,7 @@ title: ""
 | **한성대학교** | 컴퓨터공학 전공 | 공학사 |
 
 > **석사 학위 논문**: 다수의 TCP/UDP Flow 환경상에서 FRED 알고리즘의 공정성 실험적 평가 및 분석
+> [![Paper](https://img.shields.io/badge/Thesis-PDF-red?style=flat-square&logo=adobe-acrobat-reader)](./papers/router_queuing_algorithm.pdf)
 
 ---
 
