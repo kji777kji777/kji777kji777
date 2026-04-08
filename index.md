@@ -67,6 +67,11 @@ title: ""
 기상/지진 데이터를 획득하여 체인링크노드를 통한 온체인 서비스 제공 (Java, Python, docker, blockchain, kma/api)
 [GitHub 바로가기](https://github.com/kji777kji777/kma-oracle)
 
+### 일본 GMSD(다네가섬) GNSS 데이터를 이용한 실시간 대지진 감지 및 아카이빙 서비스 구축
+본 프로젝트는 일본 다네가섬에 위치한 GMSD00JPN0 GNSS 기준국의 데이터를 NTRIP 프로토콜로 실시간 수신하여, 지각 변동을 mm 단위로 모니터링하고 지진 전조 현상을 감지하는 연구용 솔루션 (Python, Gnss)
+[GitHub 바로가기](https://github.com/kji777kji777/gnss-earthquake)
+
+
 ## 📫 연락처
 
 * **GitHub**: [kji777kji777](https://github.com/kji777kji777)
