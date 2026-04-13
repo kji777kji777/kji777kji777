@@ -1,6 +1,12 @@
+---
+layout: post
+title:  "Wiki.js Self-Hosted 구축 매뉴얼"
+date:   2026-04-11 01:00:00 +0900
+---
+
 # 📚 Wiki.js 구축 및 기술 자산화 가이드
 
-> **Oracle Linux 8.10 + Docker 기반 Wiki.js Self-Hosted 완전 설치 매뉴얼**  
+> **Oracle Linux 8.10 + Docker 기반 Wiki.js Self-Hosted 구축 매뉴얼**  
 > "Docs as Code" — 문서를 코드처럼 관리하는 기술 자산화 환경 구축
 
 ---
