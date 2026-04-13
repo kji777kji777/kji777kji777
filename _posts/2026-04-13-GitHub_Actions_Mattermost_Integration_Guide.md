@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "GitHub Actions ↔ Mattermost Webhook 전체 통합 가이드"
+date:   2026-04-13 10:00:00 +0900
+---
+
 # 🔗 GitHub Actions ↔ Mattermost Webhook 전체 통합 가이드
 
 > **모든 시스템을 하나로 — CI/CD 알림 · 이슈 자동화 · 문서 동기화 완성**  
