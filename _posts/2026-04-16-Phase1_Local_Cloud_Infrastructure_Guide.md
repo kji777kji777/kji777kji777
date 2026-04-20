@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "사설 클라우드 인프라 구축 가이드"
+title:  "Phase 1: 사설 클라우드 인프라 구축 가이드 (Proxmox 설치 및 클라우드 구성)"
 date:   2026-04-16 01:00:00 +0900
 ---
 
-# 📦 Phase 1: 사설 클라우드 인프라 구축 가이드
+# 📦 Phase 1: 사설 클라우드 인프라 구축 가이드 (Proxmox 설치 및 클라우드 구성)
 
 > **Proxmox VE · Ubuntu 22.04 · K3s · 4-VM 아키텍처**
 
