@@ -64,6 +64,8 @@ title: ""
 ---
 
 ## 📂 개인 프로젝트
+> **Earthworm8 Docker Guide**: Rocky9 기반의 Earthworm8 도커 이미지 배포 가이드 문서
+> [![Paper](https://img.shields.io/badge/Thesis-PDF-red?style=flat-square&logo=adobe-acrobat-reader)](./papers/Earthworm8_Docker_Compose_Guide.pdf)
 
 ### 기상청 API허브를 활용한 블록체인 서비스 프로토타입
 기상/지진 데이터를 획득하여 체인링크노드를 통한 온체인 서비스 제공 (Java, Python, docker, blockchain, kma/api)
